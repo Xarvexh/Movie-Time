@@ -1,1 +1,6 @@
 # Movie-Time
+In this project, movie tickets are booked using the movie Ticket booking system. We enter the web page by logging with User Name and Password. Then we select the Movie and later in which Theatre movie is running. Later choose show timings and enter the number of tickets you want . Finally it displays the details of the procedure and prints the form to show at the respective ticket counter to get a ticket.
+
+Online movie ticket booking systems as described above can lead to error free, secure, reliable and fast management systems. It can assist the user to concentrate on their other activities rather than to concentrate on the record keeping. Thus it will  help organizations in better utilization of resources. The organization can maintain computerized records without redundant entries. That means that one need  not be distracted by information that is not relevant, while being able to reach the information. 
+
+The aim is to automate its existing manual system by the help of computerized equipment and full- fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer project that describes how to manage for good performance and better services for the clients.
